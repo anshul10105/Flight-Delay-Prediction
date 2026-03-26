@@ -46,8 +46,7 @@ Departure delay is the most important factor affecting arrival delays.
 ---
 
 ##  **Note**
-- Dataset is not included due to size limitations
-- Model file may not be included if exceeding GitHub limits
+- Dataset is not included due to size limitations it is too big to upload
 
 ---
 
