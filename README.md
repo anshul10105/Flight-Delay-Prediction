@@ -44,7 +44,8 @@ This project predicts whether a flight will be delayed or on time using Machine 
 Departure delay is the most important factor affecting arrival delays.
 
 ---
-
+## **Live Demo**
+https://flight-delay-prediction-apjgruyba7oksfflknvmqd.streamlit.app/
 ##  **Note**
 - Dataset is not included due to size limitations it is too big to upload
 
