@@ -33,7 +33,9 @@ This project predicts whether a flight will be delayed or on time using Machine 
 ---
 
 ## 📷 Dashboard Preview
-<img width="1897" height="921" alt="image" src="https://github.com/user-attachments/assets/b5c17e31-c9df-4caa-8df3-18d735c89d14" />
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/ad272a18-0b2e-4251-972c-f152ebbc9bc0" />
+
+<img width="1898" height="859" alt="image" src="https://github.com/user-attachments/assets/872149bf-deaa-4991-b3f2-8ab83702f5ab" />
 
 
 ---
